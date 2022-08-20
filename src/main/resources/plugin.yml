@@ -1,0 +1,21 @@
+name: CatchRoyal
+version: '${project.version}'
+main: fr.skycun.catchroyal.Main
+api-version: 1.19
+authors: [ Skycun ]
+commands:
+  rules:
+    description: dit les thermes, euhhhh les rules
+    aliases: [regles, rule, regle, r]
+  start:
+    description: ça start fdp
+  config:
+    description: à ton avis? fdp va
+  collection:
+    description: colection
+    aliases: [coll, c]
+  collect:
+    description: "jsp"
+
+
+
